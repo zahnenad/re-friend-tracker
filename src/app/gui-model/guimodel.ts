@@ -387,7 +387,8 @@ export class GuiModel {
 							} 
 						},	
 					] 
-				}, 		
+				},
+			]
 		}
     };
 
